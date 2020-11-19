@@ -1,0 +1,39 @@
+
+.heading
+{
+    width: 100%;
+    font-size: 25px;
+    margin: 0%;
+   box-shadow: 5px 5px 5px black;
+   background-image:linear-gradient(to right, red , yellow) ;
+}
+
+.note
+{
+    font-size: 17px;
+    color: white;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color:deeppink;
+    width: 100%;
+    box-shadow: 5px 5px 5px black;
+    text-align: center;
+    line-height: 3;
+    background-color: greenyellow;
+    bottom: 0;
+}
+
+.canvas
+{
+    border: 5px solid black;
+    border-radius: 300px;
+    box-shadow: 5px 5px 5px black;
+}
+
+body
+{
+  background-image:linear-gradient(to bottom right, deeppink, yellow);
+}
